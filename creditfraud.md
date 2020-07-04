@@ -1,17 +1,3 @@
----
-title: "Credit Card Fraud Detection"
-author: "Masha"
-date: "7/3/2020"
-output:  
-   md_document:
-    variant: markdown_github
----
-
-
-# credit-card-fraud-detection
-using smote and neural networks
-
-
 R Markdown
 ----------
 
